@@ -24,4 +24,4 @@ Submit pull requests against the respective repos:
 
 This repository is maintained by [Subvisual](http://subvisual.co).
 
-[![Subvisual](subvisual_logo_with_name.png)](http://subvisual.co)
+[![Subvisual](https://raw.githubusercontent.com/subvisual/guides/master/github/templates/subvisual_logo_with_name.png)](http://subvisual.co)
